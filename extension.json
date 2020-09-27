@@ -1,0 +1,20 @@
+{
+  "identifier": "chipotle.dash",
+  "name": "Nova Dash integration",
+  "organization": "Coyote Tracks",
+  "description": "Provides integration with Dash",
+  "version": "0.9",
+  "categories": ["commands"],
+
+  "main": "main.js",
+
+  "commands": {
+    "editor": [
+      {
+        "title": "Lookup in Dash",
+        "command": "dash.lookup",
+        "shortcut": "ctrl-h"
+      }
+    ]
+  }
+}
