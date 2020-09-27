@@ -2,8 +2,12 @@
   "identifier": "chipotle.dash",
   "name": "Nova Dash integration",
   "organization": "Coyote Tracks",
+  "author": "Watts Martin",
   "description": "Provides integration with Dash",
   "version": "0.9",
+  "repository": "https://github.com/chipotle/dash-nova",
+  "license": "BSD-2-Clause",
+  "bugs": "https://github.com/chipotle/dash-nova/issues",
   "categories": ["commands"],
 
   "main": "main.js",
